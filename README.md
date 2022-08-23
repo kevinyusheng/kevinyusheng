@@ -1,11 +1,11 @@
 ## Welcome to my Github page!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> 
 
 <p>
-📖 I'm currently a [Industrial Engineering](https://iem.nycu.edu.tw) major student at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw)
-🤣 My interest of study is Artificial intelligence
-⚡️ 2022 Goals: Learn more about algorithm, AI model and psychology
-🔭 Fun fact: I'm a fan of music and sports(swim and basketball).
-🏊‍♀️ I'm swimming athletes.
+📖 I'm currently a [Industrial Engineering](https://iem.nycu.edu.tw) major student at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw)</br> 
+🤣 My interest of study is Artificial intelligence</br> 
+⚡️ 2022 Goals: Learn more about algorithm, AI model and psychology</br> 
+🔭 Fun fact: I'm a fan of music and sports(swim and basketball).</br> 
+🏊‍♀️ I'm swimming athletes.</br> 
 </p>
 
 ## Where to find me
