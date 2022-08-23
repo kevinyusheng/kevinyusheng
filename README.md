@@ -1,7 +1,8 @@
 ## Welcome to my Github page!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> 
 
 <p>
-📖 I'm currently a [Industrial Engineering](https://iem.nycu.edu.tw) major student at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw)</br> 
+This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiwan</b> </br> 
+📖 I'm currently a <a href="https://iem.nycu.edu.tw">Industrial Engineering</a> major student at <a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a></br> 
 🤣 My interest of study is Artificial intelligence</br> 
 ⚡️ 2022 Goals: Learn more about algorithm, AI model and psychology</br> 
 🔭 Fun fact: I'm a fan of music and sports(swim and basketball).</br> 
