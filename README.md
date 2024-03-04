@@ -2,9 +2,10 @@
 
 <p>
 This is Kevin from <img src="materials/taiwan.png" width="13"/> <b>Taoyuan, Taiwan</b> </br> 
-📖 I'm currently a <a href="https://iem.nycu.edu.tw">Industrial Engineering</a> major student at <a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a></br> 
+📖 I'm currently a <a href="https://ieem.site.nthu.edu.tw/">Industrial Engineering</a> major student at <a href="https://www.nthu.edu.tw">National Tsing Hua University</a></br> 
+🏫 I've already graduated from <a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a></br> 
 🤣 My interest of study is Artificial intelligence</br> 
-⚡️ 2022 Goals: Learn more about algorithm, AI model and psychology</br> 
+⚡️ 2024 Goals: Learn more about algorithm, AI model and psychology</br> 
 🔭 Fun fact: I'm a fan of music and sports(swim and basketball).</br> 
 🏊‍♀️ I'm swimming athletes.</br> 
 </p>
